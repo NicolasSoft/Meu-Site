@@ -21,5 +21,5 @@ Confira meus principais projetos desenvolvidos com:
 
 - LinkedIn: [linkedin.com/in/nicolasdanielsantos](https://linkedin.com/in/nicolasdanielsantos)  
 - GitHub: [github.com/NicolasSoft](https://github.com/NicolasSoft)  
-- Email: darthnicolas763@gmail.com
+- Email: nicolas.d.daniell@gmail.com
 
